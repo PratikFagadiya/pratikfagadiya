@@ -1,9 +1,9 @@
-### Hi there, I'm Pratik Fagadiya👋
+## Hello World 🌍 I'm [Pratik Fagadiya!]() 👋
 
 
-# A Passionate Android Developer 🚀 
+### A Passionate Android Developer 🚀 
 
-## About Me 🤷🏻‍♂️
+### About Me 🤷🏻‍♂️
 
 * 📱 Android Developer  🦹🏻‍♂️ 
 * 📝 Open Source Contributor
@@ -19,10 +19,10 @@
 </details>
   
 
-## Reach me via 👇
+### Reach me via 👇
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pratikfagadiya/)
 [![Instagram](https://img.shields.io/badge/Instagram-gray.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/the_selfmadecoder/)
 
 
-## Projects made with ❤️ 👇
+### Projects made with ❤️ 👇
