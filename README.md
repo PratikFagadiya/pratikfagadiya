@@ -5,7 +5,7 @@
 
 ### About Me 🤷🏻‍♂️
 
-* 📱 Android Developer  🦹🏻‍♂️ 
+* 📱 Android Developer 🦹🏻‍♂️ 
 * 📝 Open Source Contributor
 * 🚀 Love towards Rocket Science Never ends
 
@@ -18,7 +18,7 @@
   <p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=pratikfagadiya&theme=graywhite&hide_border=true" alt="Pratik Fagadiya | Streak" />
 </details>
   
-
+ 
 ### Reach me via 👇
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pratikfagadiya/)
