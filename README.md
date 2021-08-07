@@ -1,4 +1,4 @@
-## Hello World 🌍 I'm [Pratik Fagadiya!]() 👋
+## Hello World 🌍 I'm Pratik Fagadiya 👋
 
 
 ### A Passionate Android Developer 🚀 
