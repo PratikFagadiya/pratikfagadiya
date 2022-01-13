@@ -1,5 +1,6 @@
 ## Hello 🌍 I'm Pratik Fagadiya 👋
 
+<a href="https://stackoverflow.com/users/story/12833551"><img src="https://github-readme-stackoverflow.vercel.app/?userID=12833551&theme=dark" height="250"></a>
 
 ### A Passionate Android Developer 🚀 
 
@@ -8,6 +9,7 @@
 * 📱 Android Developer 🦹🏻‍♂️ 
 * 📝 Open Source Contributor
 * 🚀 Love towards Rocket Science Never ends
+
 
 <details>
   <summary><b>📊 Github Stats</b></summary>
