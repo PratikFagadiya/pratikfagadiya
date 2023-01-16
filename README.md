@@ -7,6 +7,7 @@
 ### About Me 🤷🏻‍♂️
 
 * 📱 Android Developer 🦹🏻‍♂️ 
+* 📱 Learning ReactJs 🦹🏻‍♂️ 
 * 📝 Open Source Contributor
 * 🚀 Love towards Rocket Science Never ends
 
