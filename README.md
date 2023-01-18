@@ -25,7 +25,8 @@
 ### Reach me via 👇
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pratikfagadiya/)
-[![Instagram](https://img.shields.io/badge/Instagram-gray.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/the_selfmadecoder/)
+[![Instagram](https://img.shields.io/badge/Instagram-gray.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/patrik.codes/)
+
 
 
 ### Projects made with ❤️ 👇
