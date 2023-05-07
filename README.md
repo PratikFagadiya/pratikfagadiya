@@ -8,7 +8,6 @@
 
 * 📱 Android Developer By Day, 🎮 Gamer By Night
 * 📱 Learning ReactJs 🦹🏻‍♂️ 
-* 📝 Open Source Contributor
 * 🚀 Love towards Rocket Science Never ends
 * 🌟 Always pushing myself to learn new skills and take on new challenges.
 * 🚀 Passionate about exploring new frontiers in technology and finding innovative solutions.
