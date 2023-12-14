@@ -7,11 +7,11 @@
 ### About Me 🤷🏻‍♂️
 
 * 📱 Android Developer By Day, 🎮 Gamer By Night
-* 📱 Learning ReactJs 🦹🏻‍♂️ 
-* 🚀 Love towards Rocket Science Never ends
+* 📱 Learning ReactJs and KMP🦹🏻‍♂️ 
 * 🌟 Always pushing myself to learn new skills and take on new challenges.
 * 🚀 Passionate about exploring new frontiers in technology and finding innovative solutions.
 * 🤝 Committed to collaborating with like-minded developers to achieve a common goal.
+* ✍🏻 I write blogs in [Medium](https://medium.com/@pratikfagadiya)
 
 <details>
   <summary><b>📊 Github Stats</b></summary>
