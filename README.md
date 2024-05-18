@@ -11,7 +11,7 @@
 * 🌟 Always pushing myself to learn new skills and take on new challenges.
 * 🚀 Passionate about exploring new frontiers in technology and finding innovative solutions.
 * 🤝 Committed to collaborating with like-minded developers to achieve a common goal.
-* ✍🏻 I write blogs in [Medium](https://medium.com/@pratikfagadiya)
+* ✍🏻 Sometimes I write blogs in [Medium](https://medium.com/@pratikfagadiya)
 
 <details>
   <summary><b>📊 Github Stats</b></summary>
